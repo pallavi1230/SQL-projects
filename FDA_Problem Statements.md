@@ -1,5 +1,5 @@
 ## SQL Data Analysis for FDA
-### Created the FDA database and required tables with data. Mentioned below are the quries to be addressed to provide insight about the given dataset.
+### Created the FDA database and required tables with data. Mentioned below are the queries to be addressed to provide insight about the given dataset.
 
 #### Task 1: Identifying Approval Trends
 1. Determine the number of drugs approved each year and provide insights into the yearly 
