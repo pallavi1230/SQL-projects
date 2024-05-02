@@ -30,5 +30,6 @@ each year.
 
 #### All the queries are listed in sql files as per listed tasks. 
 
-#### Note: Also created Dashboard for the same analysis using POWER BI , which is mentioned in POWER BI section.
+#### Note: Also created Dashboard for the same analysis using POWER BI and here is the link
+https://github.com/pallavi1230/PowerBI-projects/blob/main/FDA_Dataset.md 
 
